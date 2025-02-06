@@ -1,0 +1,11 @@
+body{
+    font-family: "Bebas Neue", serif;
+}
+
+svg {
+    fill:#58595b;
+}
+
+svg:hover{
+    fill:red;
+}
